@@ -1,0 +1,70 @@
+.one h1{
+    text-align: center;
+    color: rgb(25, 62, 92);
+    margin-top: 100px;
+}
+.one p{
+    text-align: center;
+}
+.two {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.three h2{
+    text-align: center;
+}
+.three p{
+    text-align: center;
+}
+.three {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color:rgb(95, 178, 255);
+}
+.four{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 100px;
+    margin-right: 500px;
+    padding: 20px;
+    margin-top: 100px;
+
+}
+
+
+.four h2{
+    text-align: left;
+  
+}
+.four p{
+    text-align: left;
+
+}
+.five{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 100px;
+    margin-right: 500px;
+    padding: 20px;
+}
+
+.five h2{
+    text-align: left;
+
+
+}
+.five p{
+    text-align: left;
+
+
+}
+.footer p{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
